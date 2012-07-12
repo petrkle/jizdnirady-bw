@@ -1,1 +1,8 @@
-.tdform{background-color:#ffffff;}
+table.tdform{background:#fff;}
+.tdform{background:#fff;}
+.hid{display:none;}
+div.Nav,h1{background:#000;color:#fff;}
+input.GButt{background:#ccc;border-right-color:#bbb;border-left-color:#ddd;border-top-color:#ddd;border-bottom-color:#bbb;}
+a.NavUnSel{color:#fff;}
+span.NavSep{color:#fff;}
+td.footer{display:none}
