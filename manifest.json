@@ -3,9 +3,9 @@
   "version": "1.0",
   "manifest_version": 2,
   "description": "Odstraní z blind.jizdnirady.idnes.cz fialovou barvu.",
-	"icons": { "16": "idos.png",
-           "48": "idos-l.png",
-					"128": "idos-vl.png"	},
+	"icons": { "16": "b.png",
+           "48": "bu.png",
+					"128": "bus.png"	},
 	"content_scripts": [
 			{
 				"matches": ["http://blind.jizdnirady.idnes.cz/*"],
