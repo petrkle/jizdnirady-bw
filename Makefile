@@ -3,4 +3,4 @@ help:
 	@echo "dist     - vytvori archiv pro nahrani do google play"
 
 dist:
-	zip -R ../jizdnirady-bw.zip * -x screenshots
+	zip -R ../jizdnirady-bw.zip * -x screenshots Makefile README
